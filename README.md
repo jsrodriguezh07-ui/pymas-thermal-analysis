@@ -37,4 +37,5 @@ Para ejecutar este módulo de análisis térmico es necesario instalar previamen
 Instala el paquete base directamente desde su repositorio de GitHub:
 
 ```bash
-pip install git+https://github.com/rvcristiand/pymas.git
+pip install git+[https://github.com/rvcristiand/pymas.git](https://github.com/rvcristiand/pymas.git)
+
